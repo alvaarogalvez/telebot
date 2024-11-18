@@ -9,3 +9,6 @@
 5. Activa el entorno virtual con `source env/bin/activate`
 6. Baja las depencias con `pip install -r requirements.txt`
 7. Lanza el bot con `python main.py`
+
+
+o haz `./start.sh`
